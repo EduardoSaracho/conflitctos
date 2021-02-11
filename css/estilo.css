@@ -4,7 +4,11 @@ body {
 #contenedor {
     width: 80%;
     border: 1px solid #a0b0a0;
+<<<<<<< HEAD
     margin-top: 30px auto;
+=======
+    margin-top: 50px auto;
+>>>>>>> refs/remotes/origin/main
     padding: 0 17px;
     background-color: white;
 }
